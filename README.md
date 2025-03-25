@@ -5,11 +5,11 @@
 ## 📌 Progress Tracker
 
 | Problem                  | Java | JavaScript | Python | PHP | Golang |
-| ------------------------ | ---- | ---------- | ------ | --- | ------ | --- |
+| ------------------------ | ---- | ---------- | ------ | --- | ------ |
 | Two Sum (#1)             | ✅   | ✅         | ✅     | ✅  | ✅     |
 | Valid Anagram (#242)     | ✅   | ✅         | ✅     | ✅  | ✅     |
 | Merge Sorted Array (#88) | ✅   | ✅         | ✅     | ✅  | ✅     |
-| Palindrome Number (#9)   | ✅   | --         | ✅     | --  |        | --  |
+| Palindrome Number (#9)   | ✅   |            | ✅     | --  | --     |
 
 ## 📂 Folder Structure
 
