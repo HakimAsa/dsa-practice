@@ -1,1 +1,1 @@
-// Solution for two_sum in py
+# Solution for two_sum in py
